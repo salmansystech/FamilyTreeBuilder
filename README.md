@@ -127,3 +127,5 @@ Height comparisons accurately reflect the tallest in the lineage.
 Future Enhancements
 Add support for optional features such as printShortestInLineage.
 Extend handling of additional complex family structures for advanced scenarios.
+# License
+This project is for educational use and does not include any license for commercial deployment. For further information, please contact the project author.
