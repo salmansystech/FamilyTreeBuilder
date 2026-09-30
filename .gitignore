@@ -1,0 +1,8 @@
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+family
+*.o
+.vscode/
+.DS_Store
